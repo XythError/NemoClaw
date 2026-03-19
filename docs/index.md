@@ -104,6 +104,16 @@ Learn what NemoClaw does and how it integrates OpenClaw with OpenShell.
 {bdg-secondary}`Concept`
 :::
 
+:::{grid-item-card} NemoClaw auf Deutsch
+:link: about/overview-de
+:link-type: doc
+
+Read a plain-German introduction to NemoClaw, common use cases, and how it differs from other Claw projects.
+
++++
+{bdg-secondary}`Concept`
+:::
+
 :::{grid-item-card} Quickstart
 :link: get-started/quickstart
 :link-type: doc
@@ -187,6 +197,7 @@ Home <self>
 :hidden:
 
 Overview <about/overview>
+Overview in German <about/overview-de>
 How It Works <about/how-it-works>
 Release Notes <about/release-notes>
 ```
